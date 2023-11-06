@@ -28,7 +28,8 @@ The application initiates a TCP connection with a target node, then performs a h
 To test and verify the handshake process, follow these steps:
 
 1. Run the project with a target node's ID, IP, and port as arguments:
-   Example HoleskyBootnode: 
+   
+   ***Example HoleskyBootnode:*** 
    
    ```
    cargo run ac906289e4b7f12df423d654c5a962b6ebe5b3a74cc9e06292a85221f9a64a6f1cfdd6b714ed6dacef51578f92b34c60ee91e9ede9c7f8fadc4d347326d95e2b 146.190.13.128 30303
