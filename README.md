@@ -51,4 +51,4 @@ Hello { protocol_version: 5, client_version: "Geth/v1.13.2-stable-dc34fe82/linux
 ```
 
 
-Please note that successful completion of the handshake is dependent on the target node's availability and its compatibility with the RLPx protocol. [List of available nodes](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go)
+***Please note that successful completion of the handshake is dependent on the target node's availability and its compatibility with the RLPx protocol. [List of available nodes](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go)***
