@@ -12,6 +12,10 @@ Both the target node and the handshake code compile on Linux.
 
 - The submitted code does not reuse entire preexisting handshake implementations such as libp2p_noise/XX.
 
+## Uniqueness
+
+Non-Bitcoin implementation.
+
 ## How It Works
 
 The application initiates a TCP connection with a target node, then performs a handshake at the protocol level. This involves sending an initial handshake message, waiting for a response from the target node, and potentially sending a confirmation message.
