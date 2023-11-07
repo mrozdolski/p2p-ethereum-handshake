@@ -1,1 +1,1 @@
-pub mod mac;
+pub mod hasher;

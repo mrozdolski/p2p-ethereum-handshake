@@ -10,7 +10,7 @@ use sha3::Keccak256;
 use crate::{
     constants_module::constants::{PROTOCOL_VERSION, ZERO_HEADER},
     encryption_module::protocol::EllipticCurveIES,
-    hash_module::mac::HashMac,
+    hash_module::hasher::HashMac,
     utils_module::utils::{Hello, Aes256Ctr64BE, Secrets, Error, Result},
 };
 

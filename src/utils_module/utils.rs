@@ -1,4 +1,4 @@
-use crate::hash_module::mac::HashMac;
+use crate::hash_module::hasher::HashMac;
 use ethereum_types::{H256, H128};
 use rlp::{Decodable, Encodable};
 use secp256k1::PublicKey;

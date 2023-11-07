@@ -32,7 +32,7 @@ To test and verify the handshake process, follow these steps:
    ***Example HoleskyBootnode:*** 
    
    ```
-   cargo run ac906289e4b7f12df423d654c5a962b6ebe5b3a74cc9e06292a85221f9a64a6f1cfdd6b714ed6dacef51578f92b34c60ee91e9ede9c7f8fadc4d347326d95e2b 146.190.13.128 30303
+   cargo run a3435a0155a3e837c02f5e7f5662a2f1fbc25b48e4dc232016e1c51b544cb5b4510ef633ea3278c0e970fa8ad8141e2d4d0f9f95456c537ff05fdf9b31c15072 178.128.136.233 30303
    ```
 2. The program will output log messages as it performs the handshake. Look for a message indicating that the handshake has been completed successfully.
 3. If the handshake fails, the program will output an error message. Check this message to see what went wrong.
